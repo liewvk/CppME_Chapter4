@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../CppME_Chapter4_Example4.11/CppME_Chapter4_Example4.11.vcxproj" />
+  <Project Path="../CppME_Chapter4_Example4.13/CppME_Chapter4_Example4.13.vcxproj" />
+  <Project Path="../CppME_Chapter4_Example4.14/CppME_Chapter4_Example4.14.vcxproj" />
+  <Project Path="../CppME_Chapter4_Example4.17/CppME_Chapter4_Example4.17.vcxproj" />
+  <Project Path="../CppME_Chapter4_Example4.6/CppME_Chapter4_Example4.6.vcxproj" />
+  <Project Path="../CppME_Chapter4_Example4.9/CppME_Chapter4_Example4.9.vcxproj" />
+  <Project Path="CppME_Chapter4.vcxproj" />
+</Solution>
